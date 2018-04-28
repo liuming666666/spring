@@ -1,5 +1,5 @@
 /.gradle/
 /bin/
 *.gradle
-gredlew
-gredlew.bat
+gradlew
+gradlew.bat
